@@ -10,6 +10,7 @@ Cryptocurrency hashing functions for node.js.
 
 Algorithms
 ----------
+* yescrypt for BitZeny
 * quark
 * x11
 * x13
@@ -31,6 +32,13 @@ Algorithms
 
 Usage
 -----
+
+Build
+
+```bash
+nvm install v0.10
+npm install
+```
 
 Install
 

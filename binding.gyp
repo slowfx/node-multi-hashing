@@ -50,6 +50,7 @@
                 "crypto/hash.c",
                 "crypto/aesb.c",
                 "crypto/wild_keccak.cpp",
+                "yescrypt-0.5/yescrypt.c",
             ],
             "include_dirs": [
                 "crypto",
